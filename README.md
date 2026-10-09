@@ -19,7 +19,7 @@
   <a href="https://claude.ai/" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
   </a>
-  <a href="https://www.midjourney.com/" target="_blank">- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
+  <a href="https://www.midjourney.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
   </a>
   <a href="https://platform.deepseek.com/" target="_blank">
@@ -1966,9 +1966,7 @@ A selection of platforms offering API integration for various AI applications an
 - [SourceAI](https://sourceai.dev/) - An AI-powered code generator that helps you write code faster.
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling.
 - [unpkg.ai](https://unpkg.ai/) - AI-powered service that generates JavaScript modules with TypeScript signatures via URL for rapid prototyping.
-- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing Claude Code session
--
-- - [Massvai] - [Massvai]s, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing - [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.
 - [AI Code Completion by DeepCode](https://www.deepcode.ai/) - AI-powered code review tool that learns from your codebase.
 - [Replit's Ghostwriter](https://replit.com/ghostwriter) - AI coding assistant that helps you write and debug code faster.
