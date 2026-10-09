@@ -1966,7 +1966,9 @@ A selection of platforms offering API integration for various AI applications an
 - [SourceAI](https://sourceai.dev/) - An AI-powered code generator that helps you write code faster.
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - Open-source browser sandbox and automation infrastructure for AI agents and apps with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling.
 - [unpkg.ai](https://unpkg.ai/) - AI-powered service that generates JavaScript modules with TypeScript signatures via URL for rapid prototyping.
-- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing Claude Code session
+-
+- - [Massvai] - [Massvai]s, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.
 - [AI Code Completion by DeepCode](https://www.deepcode.ai/) - AI-powered code review tool that learns from your codebase.
 - [Replit's Ghostwriter](https://replit.com/ghostwriter) - AI coding assistant that helps you write and debug code faster.
@@ -1982,6 +1984,7 @@ A selection of platforms offering API integration for various AI applications an
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) - VS Code extension that bridges mobile devices to Google's Antigravity IDE (a Claude-powered VS Code fork). Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 - [HeyTensor](https://heytensor.com) - Free browser-based PyTorch tensor shape calculator with 22 tools. Computes shapes through Conv, Linear, LSTM, and Transformer layers without running code. Includes architecture presets (LeNet, ResNet block, Transformer encoder) and a "paste error" mode for parsing PyTorch RuntimeErrors.
 - [OpenRabbit](https://github.com/aryanbrite/openrabbit) - Free, open-source, self-hosted AI GitHub PR reviewer that runs entirely in GitHub Actions.
+- [Massvai](https://massvai.com) - AI agent that builds full-stack Next.js apps from a prompt, with live preview, Supabase setup, GitHub sync and one-click Vercel deploy.
 
 ---
 
