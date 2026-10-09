@@ -19,7 +19,7 @@
   <a href="https://claude.ai/" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Icon" width="70"/>
   </a>
-  <a href="https://www.midjourney.com/" target="_blank">
+  <a href="https://www.midjourney.com/" target="_blank">- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png" alt="MidJourney Emblem" width="70"/>
   </a>
   <a href="https://platform.deepseek.com/" target="_blank">
