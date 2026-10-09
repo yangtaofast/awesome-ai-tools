@@ -1127,7 +1127,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Wolfram Alpha](https://www.wolframalpha.com/) - AI-driven computational engine.
 - [Pictory AI](https://pictory.ai/) - AI tool for video creation.
 - [Repurpose.io](https://repurpose.io/) - AI for content repurposing.
-- [Copy.ai](https://www.copy.ai/) - AI for copywriting.credit balance.
+- [Copy.ai](https://www.copy.ai/) - AI tool for copywriting.
 - [You.com](https://you.com/) - AI-powered search engine.
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
 - [Wave.video](https://wave.video/) - AI for video marketing.
